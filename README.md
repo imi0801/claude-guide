@@ -116,7 +116,7 @@ Claude Pro 更适合高频使用、长文档处理和持续工作场景。具体
 
 - [Claude Pro 付款失败排查指南](https://github.com/Ai66Man/claude-pay)
 - [ChatGPT Plus 国内充值新手教程](https://github.com/imi0801/chatgpt-guide)
-- [Grok Super 国内开通新手教程](https://github.com/imi0801/grok-gudie)
+- [Grok Super 国内开通新手教程](https://github.com/imi0801/grok-guide)
 
 ## 总结
 
